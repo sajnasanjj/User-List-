@@ -13,7 +13,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # UserList 
 - Created API using axios.
-- Made a UserList Component and pass the response from api as props and used map to display it on the webpage.
+- Made a UserList Component and pass the response from api as props
+- Used map to display it on the webpage.
 - Added delete Button.
 
 
